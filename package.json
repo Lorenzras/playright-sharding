@@ -1,0 +1,16 @@
+{
+  "name": "playright-sharding",
+  "version": "1.0.0",
+  "description": "Example repository for playwright sharding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.12.0"
+  }
+}
