@@ -1,4 +1,4 @@
-# Playright Shardingの例
+# Playwright Shardingの例
 
 [こちらの記事](https://qiita.com/otLenz/private/ecdf9352917f5c0cfc95
 )をご参考ください。
