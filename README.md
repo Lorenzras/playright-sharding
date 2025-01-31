@@ -1,5 +1,4 @@
 # Playright Sharding Example
- Example repository for playwright sharding.
 
 https://playwright.dev/docs/test-sharding
 
